@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elasticity_menu_arc_max_height">30dp</dimen>
+</resources>
